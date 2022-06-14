@@ -1,4 +1,4 @@
-from API import Conversor_de_moedas
+from Conversor import Conversor_de_moedas
 
 
 class Main:
